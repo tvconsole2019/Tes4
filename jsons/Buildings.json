@@ -7,7 +7,6 @@
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-	            "[-100]% unhappiness from the number of cities", 
-		    "[-100]% Unhappiness from [Population] [in all cities]"]
+	            "[+1] Happiness from each type of luxury resource",]
 	},
 ]
