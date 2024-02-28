@@ -8,6 +8,6 @@
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
 	            "[+1] Happiness from each type of luxury resource <for [Human player]>",
-		    "[+2 Happiness] [in capital] <for [Human player]>"]
+		    "[+3 Happiness] [in capital] <for [Human player]>"]
 	},
 ]
